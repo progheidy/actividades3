@@ -1,0 +1,36 @@
+body{
+    background:url("http://www.webquestcreator2.com/majwq/files/files_user/44764/Dibujos-de-Ni%C3%B1os-Estudiando.jpg");
+}
+nav{
+    background-color:	#00eeffe3;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    width: 300px;
+  }
+  .tasks{
+
+    display: flex;
+    flex-wrap: wrap;
+
+}
+img{
+    width: 1000px;
+}
+ #tasks {
+    display: flex;
+    margin-left: 10px;
+    flex-wrap: wrap;
+}
+#description{
+    background-color: rgb(95, 226, 249);
+}
